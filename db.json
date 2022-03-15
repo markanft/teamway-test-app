@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "id": "ques-1",
+      "title": "You're really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "answers": [
+        {
+          "id": "answ-11",
+          "text": "Don't dare to interrupt them",
+          "score": 1
+        },
+        {
+          "id": "ans-12",
+          "text": "Think it’s more important to give them some of your time; work can wait",
+          "score": 2
+        },
+        {
+          "id": "ans-13",
+          "text": "Listen, but with only with half an ear",
+          "score": 3
+        },
+        {
+          "id": "ans-14",
+          "text": "Interrupt and explain that you are really busy at the moment",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "ques-2",
+      "title": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "answers": [
+        {
+          "id": "ans-21",
+          "text": "Look at your watch every two minutes",
+          "score": 1
+        },
+        {
+          "id": "ans-22",
+          "text": "Bubble with inner anger, but keep quiet",
+          "score": 2
+        },
+        {
+          "id": "ans-23",
+          "text": "Explain to other equally impatient people in the room that the doctor is always running late",
+          "score": 3
+        },
+        {
+          "id": "ans-24",
+          "text": "Complain in a loud voice, while tapping your foot impatiently",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "ques-3",
+      "title": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+      "answers": [
+        {
+          "id": "ans-31",
+          "text": "Don’t dare contradict them",
+          "score": 1
+        },
+        {
+          "id": "ans-32",
+          "text": "Think that they are obviously right",
+          "score": 2
+        },
+        {
+          "id": "ans-33",
+          "text": "Defend your own point of view, tooth and nail",
+          "score": 3
+        },
+        {
+          "id": "ans-34",
+          "text": "Continuously interrupt your colleague",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "ques-4",
+      "title": "You are taking part in a guided tour of a museum. You:",
+      "answers": [
+        {
+          "id": "ans-41",
+          "text": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+          "score": 1
+        },
+        {
+          "id": "ans-42",
+          "text": "Follow the group without question",
+          "score": 2
+        },
+        {
+          "id": "ans-43",
+          "text": "Make sure that everyone is able to hear properly",
+          "score": 3
+        },
+        {
+          "id": "ans-44",
+          "text": "Are right up the front, adding your own comments in a loud voice",
+          "score": 4
+        }
+      ]
+    }
+  ],
+  "result": {
+    "title": "You are more of a public extravort and private introvert",
+    "description": "In public and at work you are a ball of energy perpetually on the move. You take the initiative, encourage others, hate waiting and are endlessly anticipating what’s going on around you. You take real pleasure in managing everything, much like the conductor of an orchestra. You enjoy being noticed by your work peers and your anxiety is linked more to the thought of leaving others indifferent. You need other’s attention to fully exist, but once you’ve crossed the threshold of your home, it’s another matter. You no longer take initiatives, but leave others to decide in your place. When your partner asks you to make a choice or give an opinion about holiday destinations, dinner menus or the children’s activities, you offer little or no input. You’re not comfortable and don’t know how to react and those around you often interpret your passiveness as a lack of interest or a certain reticence."
+  }
+}
